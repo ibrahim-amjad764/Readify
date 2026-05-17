@@ -122,4 +122,4 @@ MIT License © 2026
 
 ## Author
 
-GitHub: [https://github.com/ibrahim-amjad764](https://github.com/ibrahim-amjad764)
+- GitHub: [Ibrahim Amjad](https://github.com/ibrahim-amjad764)
