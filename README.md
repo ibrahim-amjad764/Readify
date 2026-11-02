@@ -213,7 +213,6 @@ Whether you're building your first project or maintaining a large codebase, Read
 <p align="left">Octokit	GitHub API integration</p>
 <p align="left">React Markdown	Markdown rendering</p>
 <p align="left">Remark GFM	GitHub Flavored Markdown</p>
-<p align="left">Jest	Unit and integration testing</p>
 <p align="left">Testing Library	Component testing</p>
 
 
